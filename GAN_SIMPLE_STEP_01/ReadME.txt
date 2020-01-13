@@ -15,7 +15,12 @@
 
 
 /****** Current step of the plan ******/
+
 5) Implement Basic GAN architecture
+	
+	a) Implementing GAN with Tensorflow
+	b) Implementing GAN with Tensorflow in Keras
+
 /*************  End *******************/
 
 6) Improve Generator architecture

@@ -1,1 +1,6 @@
 .vscode
+*.png
+*.jpg
+*.zip
+GAN_SIMPLE_STEP_01/images/
+GAN_SIMPLE_STEP_01/images_rem
